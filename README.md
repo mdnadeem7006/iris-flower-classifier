@@ -17,7 +17,7 @@ I used the **K-Nearest Neighbors (KNN)** algorithm with `k = 3`, trained on the 
 
 - Python
 - scikit-learn
-- (Optional) pandas, matplotlib
+  
 
 ## How It Works
 
